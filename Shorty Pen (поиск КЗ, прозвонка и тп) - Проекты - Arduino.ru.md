@@ -10,8 +10,7 @@ source: https://forum.arduino.ru/t/shorty-pen-poisk-kz-prozvonka-i-tp/16089
 Ссылка на автора: [Shorty - short circuit finder](https://hackaday.io/project/3635-shorty-short-circuit-finder)
 
 Мой вариант:
-
-![Схема1](https://forum.arduino.ru/uploads/default/original/2X/d/d9506ad6f0a2c7e7abeff80938cf6fdfece771b3.jpeg)
+![1791702264506](images/shortypen13.jpeg)
 
 ```arduino
 //https://radioparty.ru/prog-avr/program-c/462-lesson-74hc164
